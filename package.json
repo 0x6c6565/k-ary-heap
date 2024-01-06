@@ -1,0 +1,18 @@
+{
+  "name": "com.k-ary-heap",
+  "version": "0.1.0",
+  "displayName": "K-ary Heap",
+  "description": "a 'K'-dimensional heap",
+  "unity": "2021.1",
+  "keywords": [
+    "heap",
+    "kary",
+    "k-ary",
+    ".NET5",
+    ".NET 5"
+  ],
+  "author": {
+    "name": "Lee Wood",
+    "email": "0x6c6565@gmail.com"
+  }
+}
